@@ -1520,7 +1520,7 @@ MonoBehaviour:
   score: {fileID: 769766702}
   scoringRatio: 2
   gameOverScreen: {fileID: 1028803828}
-  fallPositionY: -1
+  fallPositionY: -0.4
   gameCamera: {fileID: 519420030}
 --- !u!82 &1469290255
 AudioSource:
